@@ -1,0 +1,21 @@
+.nav-container {
+  display:flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+}
+
+.nav {
+  display: inline-block;
+  color: black;
+}
+
+.left-side-container{
+  border: dotted 1px black;
+  width: 650px;
+}
+
+.sub-headings {
+  font-size: 35px;
+}
